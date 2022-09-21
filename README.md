@@ -5,3 +5,4 @@
 - Esto es nuevo
 - Esto va en el commit 3.
 - Esto va en el commit 4.
+- Esto está añadido desde la copia
